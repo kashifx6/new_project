@@ -33,12 +33,12 @@ p {
   .contact_us {
     background: -webkit-linear-gradient(
         rgba(12, 132, 220 0),
-        rgba(12, 132, 220, 0.9)
+        rgba(0, 43, 255, 0.9)
       ),
       url("../Images/contact.png");
     background: linear-gradient(
         rgba(12, 132, 220, 0),
-        rgba(12, 132, 220, 0.9)
+        rgba(0, 43, 255, 0.9)
       ),
       url("../Images/contact.png"); /* The least supported option. */
     background-size: cover;
