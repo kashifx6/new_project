@@ -262,3 +262,17 @@ border: none;
     background: rgba(4, 50, 90,1);
   
    }
+ /* for responsiveness  */
+   @media (max-width: 600px) {
+    
+    .top_data h1 , .top_data p {
+      width: 100% !important;
+      
+    }
+  .about_us , .about_us h1 , .capital_structure .capital_structure h1 {
+    margin-top: 2px !important;
+  }
+   .people_text p {
+   margin-left: 110px;
+   }
+   }
